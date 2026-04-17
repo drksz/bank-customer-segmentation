@@ -55,8 +55,9 @@ Once the target audience was isolated (excluding current CC users), demographic 
 
 ## 📁 Repository Structure
 
-* `notebooks/`: Contains the Jupyter notebooks detailing the data cleaning pipeline, exploratory data analysis (EDA), and PCA math.
+* `Notebooks/`: Contains the Jupyter notebooks detailing the data cleaning pipeline, exploratory data analysis (EDA), and PCA math.
 * `Dashboard/`: Contains the full strategic narrative report detailing the business case and brief recommendations.
 
 ---
+> **Note on Project:** A narrative report on the entire data preprocessing and analysis process will be added to this repository soon!!
 > **Note on Data Privacy:** The dashboard visualizations displayed above utilize anonymized and mathematically randomized data to protect proprietary financial intelligence while demonstrating the analytical structure and business logic.
