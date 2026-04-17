@@ -23,7 +23,7 @@ Instead of relying on arbitrary manual thresholds to group customers, this proje
 
 * **Data Compression:** Condensed 14+ complex behavioral variables (spend volume, digital share, transaction frequency) into two core Principal Components.
 * **Behavioral Indexing:** Translated PC loadings into two functional metrics: a **Card Preference Index** (Credit vs. Debit) and a **Digital Engagement Score**.
-* **Heuristic Tagging:** Plotted customers on these newly created axes to define actionable personas (e.g., *Loyal Debit Card Users*, *Card Neutral, Digitally Active*).
+* **Heuristic Tagging:** Plotted customers on these newly created axes to define actionable personas (e.g., *Loyal Debit Card Users*, *Long-Term Credit Card Users, Cash Movers*).
 
 ---
 
