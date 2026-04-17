@@ -1,5 +1,0 @@
-dc_spend_category: debit cards, above all other payment methods, appear to be the top payment method for traditional transactions
-
-education: customers/clients with 'mid' education backgrounds have the highest average spend across all payment methods
-
-marital_status: as observed, single clients tend to spend the most 
